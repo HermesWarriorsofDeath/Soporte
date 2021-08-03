@@ -39,13 +39,13 @@ main = f'''
 {C}[{G}4{C}] Banear Numero
 {C}[{G}5{C}] Derrumbar Blindaje
 {C}[{G}6{C}] Blindar Número
-{C}[{G}7{C}] {R}???{C}
+
 ==================
-{C}[{G}8{C}] Permiso de liberación
+{C}[{G}8{C}] Permisos de Aplicaciónn
 {C}[{G}9{C}] Contacto de WhatsApp
 {C}[{G}0{C}] Sair
 {C}===> {G}'''
-erro1=f'{wp}\n{error} Caractere(s) inválido(s).\n{C}================='
+erro1=f'{wp}\n{error} Caractere(s) inválido(s) no uses el arroba gmail.com solo el usuario.\n{C}================='
 url1 = 'https://myaccount.google.com/lesssecureapps?pli=1&rapt=AEjHL4OSggjYOgt8g8HbgSU58LpUqQ5GsD63ipENqa84YegMHionqqvIXMMoc4bqu-C0GH0N--Kal_AFpd5rRJYyO0g-y1AbEQ'
 url2 = 'https://wa.me/5218333659697'
 def link():
@@ -64,7 +64,7 @@ inp = f'''{C}===>{G} '''
 error = f'{C}[{R}ERROR{C}]';warning = f'{C}[{Y}!{C}]';info = f'{C}[{G}i{C}]'
 block_num = ["+52 833 416-0298","+55 21 79180533","55 21 7918053333","55 21 7918-0533","+55217918-0533","+5218333659697","5218333659697","55217918-0533"]
 def init():
-	gmail=input(f'{C}[{Y}Gmail{C}]: ');senha=getpass.getpass(prompt=f'{C}[{Y}Senha{C}]: ')
+	gmail=input(f'{C}[{Y}Gmail{C}]: ');senha=getpass.getpass(prompt=f'{C}[{Y}Contraseña{C}]: ')
 	login = {
 	'log1':f'{gmail}',
 	'log2':f'{senha}',
