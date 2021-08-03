@@ -6,8 +6,8 @@
 
 <h1 align="center">SpamReport (Alpha)</h1>
 <p align="center">
-  <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/HermesWarriosofDeath/Soporte">
-  <img alt="Latest version" src="https://img.shields.io/github/v/release/HermesWarriosofDeath/Soporte.svg" alt="Latest version">
+  <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/HermesWarriorsofDeath/Soporte">
+  <img alt="Latest version" src="https://img.shields.io/github/v/release/HermesWarriorsofDeath/Soporte.svg" alt="Latest version">
 
   <p align="center">
     Este script fue creado solo para uso educativo, no soy responsable de ningún uso indebido.
@@ -18,14 +18,14 @@
 
 ![image](https://github.com/Kiny-Kiny/SpamReport/blob/main/IMG-20210803-WA0578.jpg)
 
-![banner](https://github.com/HermesWarriosofDeath/Soporte/blob/main/IMG-20210620-WA0488.JPG)
+![banner](https://github.com/HermesWarriorsofDeath/Soporte/blob/main/IMG-20210620-WA0488.JPG)
 > Habilite esta opción en Gmail donde utilizará.
 
 > Obs: Usuarios de IOS, haga clic aquí [**aqui**](https://myaccount.google.com/lesssecureapps?pli=1&rapt=AEjHL4OSggjYOgt8g8HbgSU58LpUqQ5GsD63ipENqa84YegMHionqqvIXMMoc4bqu-C0GH0N--Kal_AFpd5rRJYyO0g-y1AbEQ)
 
 <p align="center" >
   <h2 align="center">📧 Groups</h2>
-<a href="https://chat.whatsapp.com/Lg9Ku0IeMNu4D54Ux3" alt="WhatsApp">
+<a href="https://chat.whatsapp.com/Lg9Ku0IeMNu4D5Ux3" alt="WhatsApp">
   <img src = "https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP" /> </a>
 
 <h2 align="center">🖥 Install</h2>
