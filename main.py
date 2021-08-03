@@ -128,7 +128,7 @@ def init():
 	   				    		restart()
 	   			##############################
 	except Exception as erro:
-		print(f"{error} Compruebe si se ha activado la opción 'Aplicaciones menos seguras' o si ha introducido el correo electrónico / contraseña correctamente, o bien puede ser un error de conexion revise su bandeja de enviados.\n{warning}: "+str(erro));time.sleep(5)
+		print(f"{error} Compruebe si se ha activado la opción 'Aplicaciones menos seguras' o si ha introducido el correo electrónico / contrasena correctamente, o bien puede ser un error de conexion revise su bandeja de enviados.\n{warning}: "+str(erro));time.sleep(5)
 Sair = False
 while(Sair == False):
 		try:
