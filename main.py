@@ -38,7 +38,7 @@ main = f'''
 {C}[{G}3{C}] Retirar Baneo
 {C}[{G}4{C}] Banear Numero
 {C}[{G}5{C}] Derrumbar Blindaje
-{C}[{G}6{C}] Blindar Número
+{C}[{G}6{C}] Blindar Numero
 
 ==================
 {C}[{G}8{C}] Permisos de Aplicaciónn
@@ -201,57 +201,57 @@ while(Sair == False):
 				if op == 1:
 					clear();op2 = int(input(main2[0]+main2[1]+main2[2]+main2[3]+main2[4]+main2[5]+main2[6]))
 					if op2 == 1:
-						clear();print(wp, f'{C}Modo:{R} Desativar Número{C}\n');titulo = title['title0'];bd=text['text0']
+						clear();print(wp, f'{C}Modo:{R} Desactivar Numero{C}\n');titulo = title['title0'];bd=text['text0']
 					elif op2 == 2:
-						clear();print(wp, f'{C}Modo:{R} Desativar Número{C}\n');titulo = title['title1'];bd=text['text1']
+						clear();print(wp, f'{C}Modo:{R} Desactivar Numero{C}\n');titulo = title['title1'];bd=text['text1']
 					elif op2 == 3:
-						clear();print(wp, f'{C}Modo:{R} Desativar Número{C}\n');titulo = title['title2'];bd=text['text2']
+						clear();print(wp, f'{C}Modo:{R} Desactivar Numero{C}\n');titulo = title['title2'];bd=text['text2']
 					elif op2 == 4:
-						clear();print(wp, f'{C}Modo:{R} Desativar Número{C}\n');titulo = title['title3'];bd=text['text3']
+						clear();print(wp, f'{C}Modo:{R} Desactivar Numero{C}\n');titulo = title['title3'];bd=text['text3']
 					elif op2 == 5:
-						clear();print(wp, f'{C}Modo:{R} Desativar Número{C}\n');titulo = title['title5'];bd=text['text4']
+						clear();print(wp, f'{C}Modo:{R} Desactivar Numero{C}\n');titulo = title['title5'];bd=text['text4']
 					elif op2 == 6:
-						clear();print(wp, f'{C}Modo:{R} Desativar Número{C}\n');titulo = title['title5'];bd=text['text5']
+						clear();print(wp, f'{C}Modo:{R} Desactivar Numero{C}\n');titulo = title['title5'];bd=text['text5']
 					else:
 						pass
 					init()
 				elif op == 2:
 					clear();op2 = int(input(main2[0]+main2[1]+main2[2]+main2[6]))
 					if op2 == 1:
-						clear();print(wp, f'{C}Modo:{G} Retirar do Contador{C}\n');titulo = title['title6'];bd=text['text6']
+						clear();print(wp, f'{C}Modo:{G} Restablecer codigos{C}\n');titulo = title['title6'];bd=text['text6']
 					elif op2 == 2:
-						clear();print(wp, f'{C}Modo:{G} Retirar do Contador{C}\n');titulo = title['title7'];bd=text['text7']
+						clear();print(wp, f'{C}Modo:{G} Restablecer codigos{C}\n');titulo = title['title7'];bd=text['text7']
 					elif op2 == 3:
-						clear();print(wp, f'{C}Modo:{G} Retirar do Contador{C}\n');titulo = title['title8'];bd=text['text8']
+						clear();print(wp, f'{C}Modo:{G} Restablecer codigos{C}\n');titulo = title['title8'];bd=text['text8']
 					else:
 						pass
 					init()
 				elif op == 3:
 					clear();op2 = int(input(main2[0]+main2[1]+main2[6]))
 					if op == 2:
-						clear();print(wp, f'{C}Modo:{G} Retirar Banimento{C}\n');titulo = title['title9'];bd=text['text9']
+						clear();print(wp, f'{C}Modo:{G} Retirar Baneo{C}\n');titulo = title['title9'];bd=text['text9']
 					elif op2 == 2:
-						clear();print(wp, f'{C}Modo:{G} Retirar Banimento{C}\n');titulo = title['title10'];bd=text['text10']
+						clear();print(wp, f'{C}Modo:{G} Retirar Baneo{C}\n');titulo = title['title10'];bd=text['text10']
 					else:
 						pass
 					init()
 				elif op == 4:
 					clear();op2 = int(input(main2[0]+main2[1]+main2[6]))
 					if op2 == 1:
-						clear();print(wp, f'{C}Modo:{R} Banir Número{C}\n');titulo = title['title11'];bd=text['text11']
+						clear();print(wp, f'{C}Modo:{R} Banear Numero{C}\n');titulo = title['title11'];bd=text['text11']
 					elif op2 == 2:
-						clear();print(wp, f'{C}Modo:{R} Banir Número{C}\n');titulo = title['title12'];bd=text['text12']
+						clear();print(wp, f'{C}Modo:{R} Banear Numero{C}\n');titulo = title['title12'];bd=text['text12']
 					else:
 						pass
 					init()
 				elif op == 5:
-					clear();print(wp, f'{C}Modo:{R} Derrubar Blindagem{C}\n');titulo = title['title13'];bd=text['text13']
+					clear();print(wp, f'{C}Modo:{R} Derrumbar Blindaje{C}\n');titulo = title['title13'];bd=text['text13']
 				elif op == 6:
 					clear();op2 = int(input(main2[0]+main2[1]+main2[6]))
 					if op == 2:
-						clear();print(wp, f'{C}Modo:{G} Blindar Número{C}\n');titulo = title['title14'];bd=text['text14']
+						clear();print(wp, f'{C}Modo:{G} Blindar Numero{C}\n');titulo = title['title14'];bd=text['text14']
 					elif op2 == 2:
-						clear();print(wp, f'{C}Modo:{G} Blindar Número{C}\n');titulo = title['title15'];bd=text['text15']
+						clear();print(wp, f'{C}Modo:{G} Blindar Numero{C}\n');titulo = title['title15'];bd=text['text15']
 					else:
 						pass
 					init()
