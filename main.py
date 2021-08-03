@@ -31,7 +31,7 @@ try:
 	os.system('apt install figlet')
 except:
 		os.system('pacman -Sy figlet')
-wp = f'''{result}\n{C}__ {G}Hello World!{C} __\n{C}==================\n{info} Coded By: {G}Hermes{C}\n{info} Github: {G}https://github.com/HermesWarriosofDeath\n{warning} Recuerda activar la opción 'Aplicaciones menos seguras' en la cuenta que vas a utilizar {warning}\n{C}=================='''
+wp = f'''{result}\n{C}__ {G}Hello World!{C} __\n{C}==================\n{info} Coded By: {G}Hermes{C}\n{info} Github: {G}https://github.com/HermesWarriorsofDeath\n{warning} Recuerda activar la opción 'Aplicaciones menos seguras' en la cuenta que vas a utilizar {warning}\n{C}=================='''
 main = f'''
 {wp}\n{C}[{G}1{C}] Desactivar Numero
 {C}[{G}2{C}] Restablecer codigos
