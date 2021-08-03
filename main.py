@@ -12,7 +12,7 @@ C = '\033[1;37m'
 G = '\033[1;32m'
 R = '\033[1;31m'
 error = f'{C}[{R}ERROR{C}]';warning = f'{C}[{Y}!{C}]';info = f'{C}[{G}i{C}]'
-result = os.popen('figlet HERMES WOD').read()
+result = os.popen('figlet HERMES').read()
 try:
 	if __name__ =='__main__':
 		print(f'{warning} Buscando actualizaciones')
