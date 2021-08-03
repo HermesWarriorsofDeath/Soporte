@@ -31,7 +31,7 @@ try:
 	os.system('apt install figlet')
 except:
 		os.system('pacman -Sy figlet')
-wp = f'''{result}\n{C}__ {G}Hello World!{C} __\n{C}==================\n{info} Coded By: {G}Hermes{C}\n{info} Github: {G}https://github.com/HermesWarriorsofDeath\n{warning} Recuerda activar la opción 'Aplicaciones menos seguras' en la cuenta que vas a utilizar {warning}\n{C}=================='''
+wp = f'''{result}\n{C}__ {G}Warriors Of Death!{C} __\n{C}==================\n{info} Coded By: {G}Hermes{C}\n{info} Github: {G}https://github.com/HermesWarriorsofDeath\n{warning} Recuerda activar la opción 'Aplicaciones menos seguras' en la cuenta que vas a utilizar {warning}\n{C}=================='''
 main = f'''
 {wp}\n{C}[{G}1{C}] Desactivar Numero
 {C}[{G}2{C}] Restablecer codigos
@@ -67,7 +67,7 @@ def init():
 	gmail=input(f'{C}[{Y}Gmail{C}]: ');senha=getpass.getpass(prompt=f'{C}[{Y}Contraseña{C}]: ')
 	login = {
 	'log1':f'{gmail}',
-	'log2':f'{senha}',
+	'log2':f'{contraseña}',
 	############
 	'server':'smtp.gmail.com',
 	}
