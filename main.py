@@ -64,10 +64,10 @@ inp = f'''{C}===>{G} '''
 error = f'{C}[{R}ERROR{C}]';warning = f'{C}[{Y}!{C}]';info = f'{C}[{G}i{C}]'
 block_num = ["+52 833 416-0298","+55 21 79180533","55 21 7918053333","55 21 7918-0533","+55217918-0533","+5218333659697","5218333659697","55217918-0533"]
 def init():
-	gmail=input(f'{C}[{Y}Gmail{C}]: ');senha=getpass.getpass(prompt=f'{C}[{Y}Contraseña{C}]: ')
+	gmail=input(f'{C}[{Y}Gmail{C}]: ');contrasena=getpass.getpass(prompt=f'{C}[{Y}Contrasena{C}]: ')
 	login = {
 	'log1':f'{gmail}',
-	'log2':f'{senha}',
+	'log2':f'{contrasena}',
 	############
 	'server':'smtp.gmail.com',
 	}
