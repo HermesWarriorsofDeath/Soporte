@@ -169,8 +169,8 @@ while(Sair == False):
 	#####################
 	}
 				text = {
-	# Desativacion de Número
-	'text0':f'Desative esta cuenta urgentemente: {numero}',
+	# Desactivacion de Número
+	'text0':f'Desactive esta cuenta urgentemente: {numero}',
 	'text1':f'Hace poco me robaron y los bandidos se llevaron todos mis documentos, incluido mi celular, los necesito para desactivar mi cuenta hasta que recupere mi celular o chip, porque tengo una microempresa en mi celular y no quiero que tengan acceso a ella.: {numero}',
 	'text2':f'Estoy solicitando la desactivación temporal de mi cuenta de whatsapp, mi número: {numero}',
 	'text3':f'偷⾛了我的⼿机和我所有的宝⻉，请⽴即禁⽌我的帐⼾{numero}',
