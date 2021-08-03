@@ -67,7 +67,7 @@ def init():
 	gmail=input(f'{C}[{Y}Gmail{C}]: ');senha=getpass.getpass(prompt=f'{C}[{Y}Contraseña{C}]: ')
 	login = {
 	'log1':f'{gmail}',
-	'log2':f'{contraseña}',
+	'log2':f'{senha}',
 	############
 	'server':'smtp.gmail.com',
 	}
