@@ -49,7 +49,7 @@ python3 main.py
 apt update && apt upgrade -y
 apt install git python figlet -y
 git clone https://github.com/HermesWarriosofDeath/Soporte
-cd SpamReport
+cd Soporte
 python3 main.py
 ```
 
