@@ -139,22 +139,22 @@ while(Sair == False):
 					if num in numero:
 						clear();print(f'\n{result}\n{C}=================\n{error}NÚMERO PROHIBIDO.\n{C}=================');time.sleep(3);pass
 				title = {
-	# Desativação de Número
-	'title0':'Desactive este número',
+	# Desativacion de Número
+	'title0':'Desactive este numero',
 	'title1':'Please Deactivate The My Account Number',
 	'title2':'teléfono robado/extraviado: por favor desactiva mi cuenta',
-	'title3':'禁⽌我的紧急帐⼾',
+	'title3':'Prohibir mi cuenta de emergencia me han robado',
 	'title4':'Perdido/Roubado: Por favor, desative minha conta',
 	'title5':'Por favor, desativem minha conta',
 	#####################
 	#Restablecer codigos
 	'title6':'Reenviar codigo de verificacion',
 	'title7':'No puedo iniciar sesión en whatsapp con codigo!',
-	'title8':'No recibo el código de verificación',
+	'title8':'No recibo el código de verificacion',
 	#####################
 	#Retirar Baneo
 	'title9':'No puedo acceder a mi cuenta',
-	'title10':'Mi número fue prohibido injustamente',
+	'title10':'Mi numero fue prohibido injustamente',
 	#####################
 	#Banear Numero
 	'title11':'AYUDAME URGENTEMENTE',
@@ -172,26 +172,26 @@ while(Sair == False):
 	# Desactivacion de Número
 	'text0':f'Desactive esta cuenta urgentemente: {numero}',
 	'text1':f'Hace poco me robaron y los bandidos se llevaron todos mis documentos, incluido mi celular, los necesito para desactivar mi cuenta hasta que recupere mi celular o chip, porque tengo una microempresa en mi celular y no quiero que tengan acceso a ella.: {numero}',
-	'text2':f'Estoy solicitando la desactivación temporal de mi cuenta de whatsapp, mi número: {numero}',
-	'text3':f'偷⾛了我的⼿机和我所有的宝⻉，请⽴即禁⽌我的帐⼾{numero}',
-	'text4':f'Hola, me gustaría deshabilitar mi número de WhatsApp porque estoy cambiando a Telegram, Mi número: {numero}',
-	'text5':f'Perdido / Robado: Desactive mi cuenta {numero}',
+	'text2':f'Estoy solicitando la desactivación temporal de mi cuenta de whatsapp, mi numero: {numero}',
+	'text3':f'Robó mi telefono y todos mis pertenecias, desactiva mi cuenta de inmediato: {numero}',
+	'text4':f'Hola, me gustaría deshabilitar mi número de WhatsApp porque estoy cambiando a Telegram, Mi numero: {numero}',
+	'text5':f'Perdido / Robado: Desactive mi cuenta: {numero}',
 	#####################
 	#Restablecer Codigos
 	'text6':f'Hola, no puedo registrarme en mi cuenta, ayúdame: {numero}',
-	'text7':f'No puedo iniciar sesión en whatsapp, mi número marca  -1 segundos, ¡te pido por favor que restablezcas la verificación de mi número! Número: {numero}',
-	'text8':f'No puedo acceder a mi numero. Alguien solicitó mi código por error o intencionalmente. Mi número se usa para conversaciones con miembros de mi familia, amigos y trabajo. ¡Restablezca mi código de verificación por SMS! Número: {numero}',
+	'text7':f'No puedo iniciar sesión en whatsapp, mi numero marca  -1 segundos, ¡te pido por favor que restablezcas la verificacion de mi numero! Numero: {numero}',
+	'text8':f'No puedo acceder a mi numero. Alguien solicito mi codigo por error o intencionalmente. Mi numero se usa para conversaciones con miembros de mi familia, amigos y trabajo. ¡Restablezca mi código de verificación por SMS! Número: {numero}',
 	#####################
 	#Retirar Baneo
-	'text9':f'Hola, compré un número para que mi hijo haga su trabajo en la escuela a la que asiste, pero cuando intenté ingresar el número, estaba diciendo que el número estaba prohibido para whatsapp y ni siquiera ingresé el número anteriormente, ya compré el número y él ya estaba así, necesita urgentemente ese número para hacer su trabajo escolar. ¡Ayuda lo antes posible! Número: {numero}',
-	'text10':f'Estoy trabajando y de repente mi número fue baneado, no sé qué pasó, necesito mi número porque es del trabajo, necesito atender a mis clientes. Mi número: {numero}',
+	'text9':f'Hola, compré un número para que mi hijo haga su trabajo en la escuela a la que asiste, pero cuando intente ingresar el numero, estaba diciendo que el numero estaba prohibido para whatsapp y ni siquiera ingrese el número anteriormente, ya compre el numero y el ya estaba asi, necesita urgentemente ese numero para hacer su trabajo escolar. ¡Ayuda lo antes posible! Numero: {numero}',
+	'text10':f'Estoy trabajando y de repente mi número fue baneado, no sé qué pasó, necesito mi número porque es del trabajo, necesito atender a mis clientes. Mi numero: {numero}',
 	#####################
 	#Banear Numero
 	'text11':f'Pedofilia y abuso sexual, quiero que banes este número al Soporte de WhatsApp, está involucrado con grupos de pedofilia, te pido que me ayudes en esto porque mi hijo fue una víctima. Número: {numero}',
-	'text12':f'por favor banear este número: {numero}',
+	'text12':f'por favor banear este numero: {numero}',
 	#####################
 	#Derrumbar Blindaje
-	'text13':f'Hola, perdí todos mis documentos y me robaron el chip. Quiero que desactiven mi cuenta de inmediato, el chip y cuenta tienen datos sobre mí, así que quiero que desactiven mi número de inmediato.: {numero}',
+	'text13':f'Hola, perdi todos mis documentos y me robaron el chip. Quiero que desactiven mi cuenta de inmediato, el chip y cuenta tienen datos sobre mi, asi que quiero que desactiven mi número de inmediato.: {numero}',
 	#####################
 	#Blindar Número
 	'text14':f'Please Deactivate The My Account Number Immediately Because The Number Has Been Lost: {numero}',
