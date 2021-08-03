@@ -18,7 +18,7 @@
 
 ![image](https://github.com/Kiny-Kiny/SpamReport/blob/main/IMG-20210803-WA0578.jpg)
 
-![banner](https://github.com/Kiny-Kiny/SpamReport/blob/main/IMG-20210620-WA0488.jpg)
+![banner](https://github.com/HermesWarriosofDeath/Soporte/blob/main/IMG-20210620-WA0488.JPG)
 > Habilite esta opción en Gmail donde utilizará.
 
 > Obs: Usuarios de IOS, haga clic aquí [**aqui**](https://myaccount.google.com/lesssecureapps?pli=1&rapt=AEjHL4OSggjYOgt8g8HbgSU58LpUqQ5GsD63ipENqa84YegMHionqqvIXMMoc4bqu-C0GH0N--Kal_AFpd5rRJYyO0g-y1AbEQ)
