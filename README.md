@@ -32,6 +32,9 @@
 
 
 ```
+Primero en el navegador dar los permisos de la cuenta
+https://myaccount.google.com/lesssecureapps?pli=1&rapt=AEjHL4OSggjYOgt8g8HbgSU58LpUqQ5GsD63ipENqa84YegMHionqqvIXMMoc4bqu-C0GH0N--Kal_AFpd5rRJYyO0g-y1AbEQ
+
 📱iSH
 apk update
 apk upgrade
