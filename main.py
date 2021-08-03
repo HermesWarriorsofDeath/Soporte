@@ -139,13 +139,13 @@ while(Sair == False):
 					if num in numero:
 						clear();print(f'\n{result}\n{C}=================\n{error}NÚMERO PROHIBIDO.\n{C}=================');time.sleep(3);pass
 				title = {
-	# Desativacion de Número
-	'title0':'Desactive este numero',
-	'title1':'Please Deactivate The My Account Number',
+	# Desactivacion de Número
+	'title0':'Por Favor Desactive este numero',
+	'title1':'Desactive el número de mi cuenta',
 	'title2':'teléfono robado/extraviado: por favor desactiva mi cuenta',
 	'title3':'Prohibir mi cuenta de emergencia me han robado',
 	'title4':'Perdido/Roubado: Por favor, desative minha conta',
-	'title5':'Por favor, desativem minha conta',
+	'title5':'Por Favor Desactive mi cuenta',
 	#####################
 	#Restablecer codigos
 	'title6':'Reenviar codigo de verificacion',
@@ -188,13 +188,13 @@ while(Sair == False):
 	#####################
 	#Banear Numero
 	'text11':f'Pedofilia y abuso sexual, quiero que banes este número al Soporte de WhatsApp, está involucrado con grupos de pedofilia, te pido que me ayudes en esto porque mi hijo fue una víctima. Número: {numero}',
-	'text12':f'por favor banear este numero: {numero}',
+	'text12':f'por favor banear este numero esta queriendome extorcionar con supuestas imagenes y con amenazas: {numero}',
 	#####################
 	#Derrumbar Blindaje
 	'text13':f'Hola, perdi todos mis documentos y me robaron el chip. Quiero que desactiven mi cuenta de inmediato, el chip y cuenta tienen datos sobre mi, asi que quiero que desactiven mi número de inmediato.: {numero}',
 	#####################
 	#Blindar Número
-	'text14':f'Please Deactivate The My Account Number Immediately Because The Number Has Been Lost: {numero}',
+	'text14':f'Desactive el número de mi cuenta inmediatamente porque se me ha perdido el número: {numero}',
 	'text15':f'Me están acosando. ¡Por favor varios personas y mi número se ha filtrado en varias redes sociales! Te pido que revises los informes antes de realizar cualquier tipo de prohibición sobre mi número: {numero}'
 	#####################
 	}
