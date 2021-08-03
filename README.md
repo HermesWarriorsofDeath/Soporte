@@ -16,7 +16,7 @@
 
 <h3><p align="center">Version: 1.0 Alpha</p></h3>
 
-![image](https://github.com/Kiny-Kiny/SpamReport/blob/main/IMG-20210803-WA0578.jpg)
+![image](https://github.com/HermesWarriorsofDeath/Soporte/blob/main/IMG-20210803-WA0578.jpg)
 
 ![banner](https://github.com/HermesWarriorsofDeath/Soporte/blob/main/IMG-20210620-WA0488.JPG)
 > Habilite esta opción en Gmail donde utilizará.
